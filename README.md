@@ -14,4 +14,6 @@ run the program: ```./factorial_calc <integer>```
 
 integer: An Integer number between 0 and 20 (any number greater than 20 will result in integer overflow)
 
+## Output
 
+![image](https://github.com/sohankancherla/Factorial_Calculator/assets/30853467/497d4bed-0c46-4887-91d1-5fba70e6b8b8)
