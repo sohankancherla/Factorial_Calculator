@@ -1,4 +1,4 @@
-# Factorial_Calculator
+# Factorial Calculator
 
 ## Project Description
 
